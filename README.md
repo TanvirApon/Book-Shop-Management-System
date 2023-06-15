@@ -1,6 +1,6 @@
 # Book Shop Management System
 
-The Book Shop Management System is a desktop-based application implemented in C#. It is a university task that involves various features and requirements to manage a book shop effectively.
+The Book Shop Management System is a desktop-based application implemented in C#. It is a university task that involves various features and requirements to manage a book shop.
 
 ## Key Features and Requirements
 
